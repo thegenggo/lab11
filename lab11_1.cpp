@@ -5,7 +5,7 @@ template <typename currentType>
 currentType fibonacci(currentType);
 
 int main(){
-    int x;
+    long long int x;
     cin >> x;
     cout << fibonacci(x);
     return 0; 
